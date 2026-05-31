@@ -25,6 +25,12 @@ E-commerce UI Automation Framework demonstrating production-ready QA engineering
 
 ---
 
+## 🧪 Test Scenarios Covered
+- **End-to-End Checkout:** Complete flow from adding items to cart, logging in, and placing an order.
+- **Error Validation:** Verification of dynamic error messages during invalid login attempts.
+- **Data-Driven Execution:** Both scenarios run against multiple datasets injected dynamically via JSON and Excel files.
+---
+
 ## 📂 Project Directory Structure
 
 ```text
@@ -150,3 +156,10 @@ The project includes a fully integrated workflow config `.github/workflows/test-
 3. Sets up JDK 17.
 4. Executes the Maven regression suite.
 5. Archives and uploads the **Extent Report** and **Log4j2 Logs** to the workflow summary.
+
+---
+
+## 👤 Author
+**Krishnaveni K**
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/krishnaveni-k04/)
+- 📧 Email: krishna20009697@gmail.com

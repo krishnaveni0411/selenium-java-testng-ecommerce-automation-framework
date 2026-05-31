@@ -1,6 +1,6 @@
 # E-Commerce Test Automation Framework
 
-An enterprise-grade, thread-safe Page Object Model (POM) test automation framework built using **Java 17**, **Selenium WebDriver 4**, and **TestNG**. Designed for parallel execution stability, maintainability, and continuous integration.
+E-commerce UI Automation Framework demonstrating production-ready QA engineering practices. Built with Java/Selenium/TestNG, featuring Page Object Model architecture, dynamic data-driven testing, comprehensive Extent reporting, and automated CI/CD workflows.
 
 [![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)](https://openjdk.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.27.0-green?logo=selenium)](https://www.selenium.dev/)

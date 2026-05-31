@@ -1,0 +1,38 @@
+# Compiled class files
+target/
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+.metadata/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+
+# Test output (regenerated on every run)
+test-output/
+
+# Extent Reports (regenerated on every run)
+reports/
+
+# Failure Screenshots (regenerated on every run)
+screenshots/*
+!screenshots/verifyInvalidLoginError.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Refactor script (temporary utility)
+refactor.py

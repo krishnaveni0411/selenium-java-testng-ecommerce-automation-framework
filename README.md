@@ -134,12 +134,12 @@ Framework logs are saved to `logs/app.log` and also streamed directly to standar
 Execution reports with embedded screenshots on failure are generated at the end of each run:
 - **Location:** `reports/index.html`
 
-![Extent Report](screenshots/extent-report.png)
+![Extent Report](doc/screenshots/extent-report.png)
 
 ### Automatic Failure Screenshot Capture
 When a test fails, the framework automatically captures a screenshot of the browser state at that exact moment. Here is an example captured during a recent test run:
 
-![Failure Screenshot](screenshots/verifyInvalidLoginError.png)
+![Failure Screenshot](doc/screenshots/verifyInvalidLoginError.png)
 
 ---
 

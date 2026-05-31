@@ -93,8 +93,8 @@ ecommerce-automation-framework/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/ecommerce-automation-framework.git
-cd ecommerce-automation-framework
+git clone https://github.com/krishnaveni0411/selenium-java-testng-ecommerce-automation-framework.git
+cd selenium-java-testng-ecommerce-automation-framework
 ```
 
 ---
